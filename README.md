@@ -21,3 +21,22 @@ O modelo de responsabilidade compartilhada está fortemente vinculado aos tipos 
 O diagrama a seguir destaca como o Modelo de Responsabilidade Compartilhada informa quem é responsável pelo que, dependendo do tipo de serviço de nuvem. </p>
 
 <img alt="Diagrama de modelo de responsabilidade compartilhada" src="https://docs.microsoft.com/pt-br/learn/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg">
+
+Você sempre será responsável por:
+
+* Informações e dados armazenados na nuvem
+* Dispositivos que têm permissão para se conectar à nuvem (telefones celulares, computadores e assim por diante)
+* Contas e identidades das pessoas, serviços e dispositivos em sua organização
+
+O provedor de nuvem é sempre responsável por:
+
+* Datacenter físico
+* Rede física
+* Hosts físicos
+
+Seu modelo de serviço determinará a responsabilidade por coisas como:
+
+* Sistemas operacionais
+* Controles de rede
+* Aplicativos
+* Identidade e infraestrutura
