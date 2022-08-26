@@ -6,4 +6,6 @@ Conteúdo e links úteis
 * Descrever a arquitetura e os serviços do Azure (35 a 40%)
 * Descrever o gerenciamento e a governança do Azure (30 a 35%)
 
-## <a href=https://docs.microsoft.com/pt-br/learn/paths/microsoft-azure-fundamentals-describe-cloud-concepts/> Conceitos da nuvem
+## Conceitos da nuvem
+
+<a href=https://docs.microsoft.com/pt-br/learn/modules/describe-cloud-compute/> Descrever a computação em nuvem
