@@ -5,3 +5,4 @@ Conteúdo e links úteis
 * Descrever os conceitos da nuvem - (25 a 30%)
 * Descrever a arquitetura e os serviços do Azure (35 a 40%)
 * Descrever o gerenciamento e a governança do Azure (30 a 35%)
+
