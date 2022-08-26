@@ -4,7 +4,7 @@ Conteúdo e links úteis
 ## Habilidades medidas
 Descrever os conceitos da nuvem - (25 a 30%) 
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/conceitosDaNuvem.md"> Definir cloud computing ☁ </a>
-* Descrever o modelo de responsábilidade compartilhada 🤝
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloResponsabilidadeCompartilhada.md"> Descrever o modelo de responsábilidade compartilhada 🤝 </a>
 * Definir os modelos de cloud, incluindo público, privado e hibrido
 * Identificar casos de uso apropriado para cada modelo de cloud
 * Descrever o modelo baseado em consumo
