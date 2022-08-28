@@ -26,3 +26,5 @@ Seu modelo de serviço determinará a responsabilidade por coisas como:
 * Controles de rede
 * Aplicativos
 * Identidade e infraestrutura
+
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloResponsabilidadeCompartilhada.md"> Definir os modelos de cloud 🔒 </a>
