@@ -8,7 +8,7 @@ Descrever os conceitos da nuvem - (25 a 30%)
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Definir os modelos de cloud, incluindo público 🔓, privado 🔒 e hibrido 🔐 </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Identificar casos de uso apropriado para cada modelo de cloud </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Descrever o modelo baseado em consumo </a>
-* Compara os modelos de preços de nuvem
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Compara os modelos de preços de nuvem </a>
 
 Descrever a arquitetura e os serviços do Azure (35 a 40%)
 
