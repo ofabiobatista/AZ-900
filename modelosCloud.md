@@ -20,3 +20,9 @@ A tabela a seguir realça alguns aspectos comparativos importantes entre os mode
 
 ## Várias nuvens ou *multicloud* ☁☁☁
 O quarto cenário, é um cenário de várias nuvens ou como é mais conhecido *multicloud*. Talvez você use recursos diferentes de diferentes provedores de nuvens públicas. Em um ambiente de várias nuvens, você lida com dois provedores de nuvem pública e gerencia recursos e segurança em ambos os ambientes.
+
+## Azure Arc
+É um conjunto de tecnologias que ajuda a gerenciar seu ambiente de nuvem, seja uma nuvem pública exclusivamente no Azure, uma nuvem privada em seu datacenter, uma configuração híbrida ou até mesmo um ambiente de várias nuvens em execução em vários provedores de nuvem ao mesmo tempo.
+
+## Solução VMware no Azure
+A Solução VMware no Azure permite executar suas cargas de trabalho do VMware no Azure com integração e escalabilidade total.
