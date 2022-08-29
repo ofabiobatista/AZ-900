@@ -6,7 +6,7 @@ Descrever os conceitos da nuvem - (25 a 30%)
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/conceitosDaNuvem.md"> Definir cloud computing ☁ </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloResponsabilidadeCompartilhada.md"> Descrever o modelo de responsábilidade compartilhada 🤝 </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Definir os modelos de cloud, incluindo público 🔓, privado 🔒 e hibrido 🔐 </a>
-* Identificar casos de uso apropriado para cada modelo de cloud
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Identificar casos de uso apropriado para cada modelo de cloud </a>
 * Descrever o modelo baseado em consumo
 * Compara os modelos de preços de nuvem
 
