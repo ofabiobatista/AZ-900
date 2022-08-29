@@ -9,3 +9,11 @@ Uma nuvem pública é criada, controlada e mantida por um provedor de nuvem de t
 
 ## Nuvem hibrida 🔐
 Uma nuvem híbrida é um ambiente de computação que usa nuvens públicas e privadas em um ambiente interconectado. Os usuários podem escolher com flexibilidade quais serviços manter na nuvem pública e quais implantar na infraestrutura de nuvem privada.
+
+A tabela a seguir realça alguns aspectos comparativos importantes entre os modelos de nuvem.
+| Nuvem privada 🔒 | Nuvem pública 🔓 | Nuvem hibrida 🔐 |
+| --- | --- | --- |
+| As organizações têm controle total sobre os recursos e a segurança | Nenhuma despesa de capital para escalar verticalmente | Fornece a maior flexibilidade |
+| Os dados não são colocados com os dados de outras organizações | Os aplicativos podem ser provisionados e desprovisionados rapidamente | As organizações determinam o local para executar os aplicativos |
+| O hardware deve ser comprado para o início e a manutenção | As organizações pagam apenas pelo que utilizam | As organizações controlam a segurança, a conformidade ou os requisitos legais |
+| As organizações são responsáveis pela manutenção e pelas atualizações de hardware | As organizações não têm controle total sobre os recursos e a segurança |  |
