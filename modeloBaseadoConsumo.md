@@ -1,4 +1,4 @@
-## Modelo baseado em consumo
+## Modelo baseado em consumo 📊
 
 Ao comparar modelos de infraestrutura de TI, há dois tipos de despesas a serem consideradas. ***CapEx*** (despesas de capital) e ***OpEx*** (despesas operacionais).
 
