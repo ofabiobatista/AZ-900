@@ -17,3 +17,6 @@ A tabela a seguir realça alguns aspectos comparativos importantes entre os mode
 | Os dados não são colocados com os dados de outras organizações | Os aplicativos podem ser provisionados e desprovisionados rapidamente | As organizações determinam o local para executar os aplicativos |
 | O hardware deve ser comprado para o início e a manutenção | As organizações pagam apenas pelo que utilizam | As organizações controlam a segurança, a conformidade ou os requisitos legais |
 | As organizações são responsáveis pela manutenção e pelas atualizações de hardware | As organizações não têm controle total sobre os recursos e a segurança |  |
+
+## Várias nuvens ou *multicloud* ☁☁☁
+O quarto cenário, é um cenário de várias nuvens ou como é mais conhecido *multicloud*. Talvez você use recursos diferentes de diferentes provedores de nuvens públicas. Em um ambiente de várias nuvens, você lida com dois provedores de nuvem pública e gerencia recursos e segurança em ambos os ambientes.
