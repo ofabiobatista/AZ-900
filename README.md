@@ -9,7 +9,7 @@ Descrever os conceitos da nuvem - (25 a 30%)
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Identificar casos de uso apropriado para cada modelo de cloud ✔</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Descrever o modelo baseado em consumo 📊</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Compara os modelos de preços de nuvem 💸</a>
-* Benefícios da alta disponibilidade e da escalabilidade na nuvem.
+* <a href="https://github.com/ofabiobatista/AZ-900/tree/main"> Benefícios da alta disponibilidade e da escalabilidade na nuvem </a>
 * Benefícios da confiabilidade e da previsibilidade na nuvem.
 * Benefícios da segurança e da governança na nuvem.
 * Benefícios da capacidade de gerenciamento na nuvem.
