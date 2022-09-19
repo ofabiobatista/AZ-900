@@ -9,7 +9,7 @@ Descrever os conceitos da nuvem - (25 a 30%)
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Descrever o modelo baseado em consumo 📊</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Compara os modelos de preços de nuvem 💸</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/altaDisponibilidadeEscalabilidade.md"> Benefícios da alta disponibilidade e da escalabilidade na nuvem 📈</a>
-* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/confiabilidadePrevisibilidade.md"> Benefícios da confiabilidade e da previsibilidade na nuvem </a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/confiabilidadePrevisibilidade.md"> Benefícios da confiabilidade e da previsibilidade na nuvem 🕵️‍♂️</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/segurancaGovernanca.md"> Benefícios da segurança e da governança na nuvem </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Benefícios da capacidade de gerenciamento na nuvem </a>
 
