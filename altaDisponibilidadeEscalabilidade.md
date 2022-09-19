@@ -1,4 +1,4 @@
-## Benefícios da alta disponibilidade e da escalabilidade na nuvem
+## Benefícios da alta disponibilidade e da escalabilidade na nuvem 📈
 Ao criar ou implantar um aplicativo de nuvem, duas das maiores considerações são o tempo de atividade (ou disponibilidade) e a capacidade de lidar com a demanda (ou a escala).
 
 ## Alta disponibilidade
