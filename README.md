@@ -5,7 +5,7 @@ Conteúdo e links úteis
 Descrever os conceitos da nuvem - (25 a 30%) 
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/conceitosDaNuvem.md"> Definir cloud computing ☁ </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloResponsabilidadeCompartilhada.md"> Descrever o modelo de responsábilidade compartilhada 🤝 </a>
-* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Definir os modelos de cloud, incluindo público 🔓, privado 🔒 e hibrido 🔐 e Identificar casos de uso apropriado para cada modelo de cloud ✔</a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐 e casos de uso apropriado para cada modelo de cloud ✔</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Descrever o modelo baseado em consumo 📊</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Compara os modelos de preços de nuvem 💸</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/altaDisponibilidadeEscalabilidade.md"> Benefícios da alta disponibilidade e da escalabilidade na nuvem </a>
