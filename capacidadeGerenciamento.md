@@ -1,4 +1,4 @@
-## Benefícios da capacidade de gerenciamento na nuvem
+## Benefícios da capacidade de gerenciamento na nuvem👨‍💼
 
 ## Gerenciamento "da" nuvem
 
