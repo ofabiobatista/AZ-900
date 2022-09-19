@@ -26,3 +26,5 @@ O quarto cenário, é um cenário de várias nuvens ou como é mais conhecido *m
 
 ## Solução VMware no Azure
 A Solução VMware no Azure permite executar suas cargas de trabalho do VMware no Azure com integração e escalabilidade total.
+
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Modelo baseado em consumo 📊 </a>
