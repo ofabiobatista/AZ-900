@@ -12,3 +12,5 @@ Se você estivesse desenvolvendo um aplicativo e precisasse de mais capacidade d
 
 ## Dimensionamento horizontal
 Se você tiver um aumento expressivo na demanda, os recursos implantados podem ser expandidos adicionando máquinas virtuais ou contêineres. Da mesma forma, se houver uma queda significativa na demanda, os recursos implantados poderão ser reduzidos (de maneira automática ou manual).
+
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/confiabilidadePrevisibilidade.md"> Benefícios da confiabilidade e da previsibilidade na nuvem 🕵️‍♂️ </a>
