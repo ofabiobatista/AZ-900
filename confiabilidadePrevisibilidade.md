@@ -14,3 +14,5 @@ A previsibilidade de desempenho se concentra em prever os recursos necessários 
 
 ## Previsibilidade de custo
 A previsibilidade de custos se concentra em prever o custo dos gastos com a nuvem. Você pode usar ferramentas como TCO (custo total de propriedade) ou a Calculadora de Preços para obter uma estimativa de possíveis gastos com a nuvem.
+
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/segurancaGovernanca.md"> Benefícios da segurança e da governança na nuvem 👮‍♂️ </a>
