@@ -13,3 +13,5 @@ Benefícios de um modelo baseado em consumo:
 * Não há necessidade de comprar nem gerenciar uma infraestrutura cara que os usuários talvez não usem na capacidade máxima.
 * A capacidade de pagar para obter mais recursos quando necessário.
 * A capacidade de parar de pagar por recursos que não são mais necessários.
+
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Modelos de preços de nuvem 💸 </a>
