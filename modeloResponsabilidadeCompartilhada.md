@@ -27,4 +27,4 @@ Seu modelo de serviço determinará a responsabilidade por coisas como:
 * Aplicativos
 * Identidade e infraestrutura
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud 🔓/🔒/🔐 </a>
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud 🔓/🔒/🔐 e casos de uso apropriado para cada modelo de cloud ✔ </a>
