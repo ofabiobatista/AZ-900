@@ -1,4 +1,4 @@
-## Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐
+## Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐 e casos de uso apropriado para cada modelo de cloud ✔
 Os modelos de nuvem definem o tipo de implantação de recursos de nuvem. Os três principais modelos de nuvem são: privado 🔒, público 🔓 e híbrido 🔐.
 
 ## Nuvem privada 🔒
