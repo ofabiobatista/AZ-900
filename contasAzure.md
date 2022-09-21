@@ -17,3 +17,6 @@ A conta gratuita do Azure é uma maneira para novos usuários começarem e explo
 # O que é a conta de estudante gratuita do Azure?
 
 -->
+
+### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> 1. Descrever o Software como serviço (SaaS) 👨‍💻 </a>
+### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> 2. Descrever a infraestrutura física do Azure 🏙 </a>
