@@ -15,4 +15,4 @@ O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nu
 * Usando APIs.
 * Usando o PowerShell.
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/IaaS.md"> Descrever Infraestrutura como serviço 🏛 </a>
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/Iaas.md"> Descrever Infraestrutura como serviço 🏛 </a>
