@@ -1,4 +1,5 @@
 ## Benefícios da capacidade de gerenciamento na nuvem👨‍💼
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud
 
 ## Gerenciamento "da" nuvem
 
@@ -15,4 +16,4 @@ O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nu
 * Usando APIs.
 * Usando o PowerShell.
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/Iaas.md"> Descrever Infraestrutura como serviço 🏛 </a>
+### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/Iaas.md"> Descrever Infraestrutura como serviço 🏛 </a>
