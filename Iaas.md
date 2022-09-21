@@ -13,4 +13,5 @@ No IaaS, a maior parte da responsabilidade fica com você. O provedor de nuvem �
 * Migração lift-and-shift: você conta com recursos de nuvem semelhantes aos do datacenter local e apenas migra os elementos em execução local para execução na infraestrutura IaaS.
 * Teste e desenvolvimento: você estabeleceu configurações para ambientes de desenvolvimento e teste que precisa replicar rapidamente. Você pode ativar ou desativar os diferentes ambientes rapidamente com uma estrutura de IaaS, mantendo o controle completo.
 
+### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Benefícios da capacidade de gerenciamento na nuvem👨‍💼 </a>
 ### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/PaaS.md"> Descrever a Plataforma como serviço 💻 </a>
