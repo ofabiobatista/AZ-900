@@ -1,4 +1,5 @@
 ## Modelo baseado em consumo 📊
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/6-describe-consumption-based-model
 
 Ao comparar modelos de infraestrutura de TI, há dois tipos de despesas a serem consideradas. ***CapEx*** (despesas de capital) e ***OpEx*** (despesas operacionais).
 
@@ -14,4 +15,4 @@ Benefícios de um modelo baseado em consumo:
 * A capacidade de pagar para obter mais recursos quando necessário.
 * A capacidade de parar de pagar por recursos que não são mais necessários.
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Modelos de preços de nuvem 💸 </a>
+### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Modelos de preços de nuvem 💸 </a>
