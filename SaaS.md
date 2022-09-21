@@ -10,3 +10,9 @@ Embora o modelo de SaaS possa ser o menos flexível, ele também é o mais fáci
 O SaaS é o modelo que coloca a maior responsabilidade sobre o provedor de nuvem e a menor responsabilidade com o usuário. Em um ambiente de SaaS, você é responsável pelos dados que coloca no sistema, pelos dispositivos que permite que se conectem ao sistema e pelos usuários que têm acesso.
 
 <img src="https://learn.microsoft.com/pt-br/training/wwl-azure/describe-cloud-service-types/media/shared-responsibility-b3829bfe.svg">
+
+# Cenários comuns no *SaaS*
+
+* Email e mensagens.
+* Aplicativos de produtividade empresarial.
+* Controle de finanças e despesas.
