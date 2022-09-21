@@ -12,6 +12,9 @@ Descrever os conceitos da nuvem - (25 a 30%)
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/confiabilidadePrevisibilidade.md"> Benefícios da confiabilidade e da previsibilidade na nuvem 🕵️‍♂️</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/segurancaGovernanca.md"> Benefícios da segurança e da governança na nuvem 👮‍ </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Benefícios da capacidade de gerenciamento na nuvem 👨‍💼</a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Descrever Infraestrutura como serviço (*IaaS*) 🏛 </a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Descrever Plataforma como serviço (*PaaS*) 💻 </a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/capacidadeGerenciamento.md"> Descrever Software como serviço (*SaaS*) 👨‍💻 </a>
 
 Descrever a arquitetura e os serviços do Azure (35 a 40%)
 
