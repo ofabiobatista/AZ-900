@@ -3,7 +3,10 @@
 Conteúdo de revisão
 
 ## Habilidades medidas
+
 ### Descrever os conceitos da nuvem - (25 a 30%)
+###### Fonte: https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+
 #### Descrever *Cloud Computing*
 
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/conceitosDaNuvem.md"> Definir cloud computing ☁ </a>
@@ -25,6 +28,8 @@ Conteúdo de revisão
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> Descrever Software como serviço (*SaaS*) 👨‍💻 </a>
 
 ### Descrever a arquitetura e os serviços do Azure (35 a 40%)
+###### Fonte: https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/
+
 #### Descrever os principais componentes de arquitetura do Azure
 
 ### Descrever o gerenciamento e a governança do Azure (30 a 35%)
