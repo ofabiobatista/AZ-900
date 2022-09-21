@@ -9,7 +9,15 @@ As assinaturas também podem ser separadas para gerenciar departamentos específ
 
 Se você for novo no Azure, poderá se inscrever em uma conta gratuita no site do Azure para começar a explorá-lo sem custos.
 
-# Criar uma conta do Azure
+< # Criar uma conta do Azure
 
 Para obter mais informações sobre como criar uma conta do Azure, clique no link "Criar uma conta do Azure" no fim da página.
-#### Obs.: Você será redirecionado para outro repositório por não se tratar de um conteúdo cobrado na prova de certificação da AZ-900.
+#### _Obs.: Você será redirecionado para outro repositório por não se tratar de um conteúdo que compõe o guia do estudante da prova de certificação da AZ-900._
+
+# O que é a conta gratuita do Azure?
+
+A conta gratuita do Azure é uma maneira para novos usuários começarem e explorarem. Você precisa de um número de telefone, um cartão de crédito e uma conta Microsoft ou do GitHub. **As informações do cartão de crédito são usadas somente para verificação de identidade. Você não será cobrado por nenhum serviço até que atualize para uma assinatura paga.**
+
+# O que é a conta de estudante gratuita do Azure?
+
+>
