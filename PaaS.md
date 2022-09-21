@@ -1,4 +1,4 @@
-# Descrever Plataforma como Serviço (*PaaS*) 💻
+# Descrever a Plataforma como Serviço (*PaaS*) 💻
 
 O PaaS (Plataforma como serviço) é um meio termo entre alugar espaço em um datacenter (infraestrutura como serviço) e pagar uma solução completa e implantada (software como serviço). O provedor de nuvem é responsável por manter a infraestrutura física e o acesso à Internet, como no *IaaS* e o provedor de nuvem também mantém os sistemas operacionais, os bancos de dados e as ferramentas de desenvolvimento.
 
@@ -8,4 +8,4 @@ O PaaS divide a responsabilidade entre você e o provedor de nuvem. Dependendo d
 
 <img src="https://learn.microsoft.com/pt-br/training/wwl-azure/describe-cloud-service-types/media/shared-responsibility-b3829bfe.svg">
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> Descrever a Plataforma como serviço 💻 </a>
+### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> Descrever o Software como serviço (*SaaS*)👨‍💻 </a>
