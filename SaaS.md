@@ -16,3 +16,5 @@ O SaaS é o modelo que coloca a maior responsabilidade sobre o provedor de nuvem
 * Email e mensagens.
 * Aplicativos de produtividade empresarial.
 * Controle de finanças e despesas.
+
+⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/PaaS.md"> Descrever a Plataforma como Serviço (PaaS) 💻 </a>
