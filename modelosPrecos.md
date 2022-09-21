@@ -1,4 +1,5 @@
 ## Modelo de preços de nuvem 💸
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/6-describe-consumption-based-model
 
 Computação em nuvem é a entrega de serviços de computação pela Internet, usando o modelo de preço pago conforme o uso (*pay-as-you-go*), o que ajuda a:
 * Planejar e gerenciar os custos operacionais.
