@@ -1,5 +1,5 @@
 ## Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐 e casos de uso apropriado para cada modelo de cloud ✔
-###### Fonte 1: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/5-define-cloud-models
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/5-define-cloud-models
 
 Os modelos de nuvem definem o tipo de implantação de recursos de nuvem. Os três principais modelos de nuvem são: privado 🔒, público 🔓 e híbrido 🔐.
 
