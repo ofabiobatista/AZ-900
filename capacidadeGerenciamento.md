@@ -16,4 +16,5 @@ O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nu
 * Usando APIs.
 * Usando o PowerShell.
 
+### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/segurancaGovernanca.md"> Benefícios da segurança e da governança na nuvem 👮‍♂️ </a>
 ### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/Iaas.md"> Descrever Infraestrutura como serviço 🏛 </a>
