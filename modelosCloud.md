@@ -1,4 +1,6 @@
 ## Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐 e casos de uso apropriado para cada modelo de cloud ✔
+###### Fonte 1: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/5-define-cloud-models
+
 Os modelos de nuvem definem o tipo de implantação de recursos de nuvem. Os três principais modelos de nuvem são: privado 🔒, público 🔓 e híbrido 🔐.
 
 ## Nuvem privada 🔒
@@ -27,4 +29,4 @@ O quarto cenário, é um cenário de várias nuvens ou como é mais conhecido *m
 ## Solução VMware no Azure
 A Solução VMware no Azure permite executar suas cargas de trabalho do VMware no Azure com integração e escalabilidade total.
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Modelo baseado em consumo 📊 </a>
+### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloBaseadoConsumo.md"> Modelo baseado em consumo 📊 </a>
