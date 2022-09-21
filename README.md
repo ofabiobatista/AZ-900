@@ -31,5 +31,6 @@ Conteúdo de revisão
 #### Descrever os principais componentes de arquitetura do Azure
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> Introdução a contas do Azure 👤 </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> Descrever a infraestrutura física do Azure 🏙 </a>
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaGerenciamentoAzure.md"> Descrever a infraestrutura de gerenciamento do Azure 🌐 </a>
 
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
