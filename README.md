@@ -8,7 +8,6 @@ Conteúdo de revisão
 ###### Fonte: https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
 
 #### Descrever *Cloud Computing*
-
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/conceitosDaNuvem.md"> Definir cloud computing ☁ </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modeloResponsabilidadeCompartilhada.md"> Descrever o modelo de responsábilidade compartilhada 🤝 </a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud, público 🔓, privado 🔒 e hibrido 🔐 e casos de uso apropriado para cada modelo de cloud ✔</a>
@@ -16,7 +15,6 @@ Conteúdo de revisão
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosPrecos.md"> Compara os modelos de preços de nuvem 💸</a>
 
 #### Descrever os benefícios de utilizar os serviços de nuvem
-
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/altaDisponibilidadeEscalabilidade.md"> Benefícios da alta disponibilidade e da escalabilidade na nuvem 📈</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/confiabilidadePrevisibilidade.md"> Benefícios da confiabilidade e da previsibilidade na nuvem 🕵️‍♂️</a>
 * <a href="https://github.com/ofabiobatista/AZ-900/blob/main/segurancaGovernanca.md"> Benefícios da segurança e da governança na nuvem 👮‍ </a>
@@ -31,5 +29,6 @@ Conteúdo de revisão
 ###### Fonte: https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/
 
 #### Descrever os principais componentes de arquitetura do Azure
+* <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> Introdução a contas do Azure 👤 </a>
 
 ### Descrever o gerenciamento e a governança do Azure (30 a 35%)
