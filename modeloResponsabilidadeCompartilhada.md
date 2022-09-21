@@ -1,4 +1,5 @@
 ## Modelo de responsabilidade compartilhada 🤝
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model
 
 <p align="justify"> Com o modelo de responsabilidade compartilhada, as responsabilidades são compartilhadas entre o provedor de nuvem e o consumidor. Segurança física, energia, resfriamento e conectividade de rede são responsabilidade do provedor de nuvem. Ao mesmo tempo, o consumidor é responsável pelos dados e pelas informações armazenados na nuvem.
 
@@ -27,4 +28,4 @@ Seu modelo de serviço determinará a responsabilidade por coisas como:
 * Aplicativos
 * Identidade e infraestrutura
 
-### <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud 🔓/🔒/🔐 e casos de uso apropriado para cada modelo de cloud ✔ </a>
+### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/modelosCloud.md"> Modelos de cloud 🔓/🔒/🔐 e casos de uso apropriado para cada modelo de cloud ✔ </a>
