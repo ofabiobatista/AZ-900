@@ -1,4 +1,4 @@
-# Infraestrutura física do Azure 🏙
+# 2.1.2 Infraestrutura física do Azure 🏙
 ###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure
 
 Ao longo de seu percurso com o Microsoft Azure, você ouvirá e usará termos como Regiões, Zonas de Disponibilidade, Recursos, Assinaturas etc. Os principais componentes da arquitetura do Azure podem ser divididos em dois agrupamentos principais: a infraestrutura física e a infraestrutura de gerenciamento.
@@ -62,6 +62,6 @@ As regiões soberanas do Azure incluem:
 * US DoD Central, US Gov – Virgínia, US Gov Iowa, entre outros: essas regiões são instâncias lógicas e físicas do Azure isoladas da rede, destinadas a parceiros e órgãos do governo dos EUA. Esses datacenters são operados por cidadãos selecionados dos EUA e incluem certificações de conformidade adicionais.
 * Leste da China, Norte da China, entre outros: essas regiões estão disponíveis por meio de uma parceria exclusiva entre a Microsoft e a 21Vianet, segundo a qual a Microsoft não mantém diretamente os data centers.
 
-### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> 2. Introdução a contas do Azure 👤💻 </a>
-### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaGerenciamentoAzure.md"> 2. Infraestrutura de gerenciamento do Azure 🌐 </a>
+### ⏮ 2.1.1 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> Introdução a contas do Azure 👤💻 </a>
+### ⏭ 2.1.3 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaGerenciamentoAzure.md"> Infraestrutura de gerenciamento do Azure 🌐 </a>
 
