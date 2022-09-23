@@ -1,4 +1,4 @@
-# Descrever o Software como serviço (*SaaS*) 👨‍💻
+# 1.3.3 Descrever o Software como serviço (*SaaS*) 👨‍💻
 ###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-service-types/4-describe-software-service
 
 O SaaS (software como serviço) é o modelo de serviço de nuvem mais completo do ponto de vista do produto. Com o SaaS, você está essencialmente alugando ou usando um aplicativo totalmente desenvolvido. Email, software financeiro, aplicativos de mensagens e software de conectividade são exemplos comuns de uma implementação de SaaS.
@@ -17,5 +17,5 @@ O SaaS é o modelo que coloca a maior responsabilidade sobre o provedor de nuvem
 * Aplicativos de produtividade empresarial.
 * Controle de finanças e despesas.
 
-### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/PaaS.md"> 1. Descrever a Plataforma como Serviço (PaaS) 💻 </a>
-### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> 2. Introdução a contas do Azure 👤 </a>
+### ⏮ 1.3.2 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/PaaS.md"> Descrever a Plataforma como Serviço (PaaS) 💻 </a>
+### ⏭ 2.1.1 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/contasAzure.md"> Introdução a contas do Azure 👤 </a>
