@@ -52,3 +52,9 @@ Alguns exemplos de como você pode usar grupos de gerenciamento podem ser:
 
 * **Criar uma hierarquia que aplica uma política.** Você pode limitar os locais de VM à região Oeste dos EUA em um grupo chamado Produção. Essa política herdará todas as assinaturas nesse grupo de gerenciamento e será aplicada a todas as VMs sob essas assinaturas. Essa política de segurança não pode ser alterada pelo proprietário da assinatura nem do recurso, o que permite uma governança aprimorada.
 * **Fornecer acesso do usuário a várias assinaturas.** Ao mover várias assinaturas em um grupo de gerenciamento, você poderá criar uma atribuição de RBAC do Azure (controle de acesso baseado em função do Azure) no grupo de gerenciamento. Atribuir o RBAC do Azure no nível do grupo de gerenciamento significa que todos os grupos de subgerenciamento, assinaturas, grupos de recursos e recursos abaixo desse grupo de gerenciamento também herdam essas permissões. Uma atribuição no grupo de gerenciamento pode permitir que os usuários tenham acesso a tudo que for necessário, em vez de criar scripts do Azure RBAC em assinaturas diferentes.
+
+Fatos importantes sobre os grupos de gerenciamento:
+
+* 10.000 grupos de gerenciamento podem ter suporte em um único diretório.
+* Uma árvore do grupo de gerenciamento pode dar suporte a até seis níveis de profundidade. Esse limite não inclui o nível raiz nem o nível da assinatura.
+* Cada grupo de gerenciamento e assinatura podem dar suporte a somente um pai.
