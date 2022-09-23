@@ -1,4 +1,4 @@
-# Introdução a contas do Azure 👤
+# 2.1.1 Introdução a contas do Azure 👤
 ###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-core-architectural-components-of-azure/3-get-started-azure-accounts
 
 Depois de criar uma conta do Azure, você poderá criar assinaturas para gerenciar os recursos que por sua vez podem ser gerenciados em grupos, chamados de grupos de recursos ou separadamente. As assinaturas também podem ser separadas para gerenciar departamentos específicos da empresa como por exemplo departamentos de desenvolvimento, marketing e vendas, conforme demonstrado abaixo:
@@ -18,5 +18,5 @@ A conta gratuita do Azure é uma maneira para novos usuários começarem e explo
 
 -->
 
-### ⏮ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> 1. Descrever o Software como serviço (SaaS) 👨‍💻 </a>
-### ⏭ <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> 2. Descrever a infraestrutura física do Azure 🏙 </a>
+### ⏮ 1.3.3 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/SaaS.md"> Descrever o Software como serviço (SaaS) 👨‍💻 </a>
+### ⏭ 2.1.2 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> Descrever a infraestrutura física do Azure 🏙 </a>
