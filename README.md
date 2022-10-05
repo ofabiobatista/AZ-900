@@ -33,4 +33,6 @@ Conteúdo de revisão
 * 2.1.2 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> Descrever a infraestrutura física do Azure 🏙 </a>
 * 2.1.3 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaGerenciamentoAzure.md"> Descrever a infraestrutura de gerenciamento do Azure 🌐 </a>
 
+#### 2.1 Descrever os serviços de computação e rede do Azure
+
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
