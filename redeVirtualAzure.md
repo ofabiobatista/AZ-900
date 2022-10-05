@@ -1,4 +1,4 @@
-# 2.1.9 Descrever a Rede Virtual do Azure
+# 2.2.7 Descrever a Rede Virtual do Azure
 ###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/8-virtual-network
 
 As redes virtuais e as sub-redes virtuais do Azure permitem que recursos do Azure, como VMs, aplicativos Web e bancos de dados, comuniquem-se uns com os outros, com usuários na Internet e com computadores cliente locais.
