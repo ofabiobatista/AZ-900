@@ -42,5 +42,6 @@ Conteúdo de revisão
 * 2.2.6 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/redeVirtualAzure.md"> Descrever a Rede Virtual do Azure
 * 2.2.7 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/redesVirtuaisPrivadasAzure.md"> Descrever Redes Virtuais Privadas do Azure
 * 2.2.8 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/expressRouteAzure.md"> Descrever o Azure ExpressRoute
+* 2.2.9 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/dnsAzure.md"> Descrever o DNS do Azure
 
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
