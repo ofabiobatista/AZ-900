@@ -39,6 +39,6 @@ Conteúdo de revisão
 * 2.1.6 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/containerAzure.md"> Descrever contêineres do Azure
 * 2.1.7 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/azureFunctions.md"> Descrever Azure Functions
 * 2.1.8 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/hospedagemAplicativo.md"> Descrever Azure Functions Descrever as opções de hospedagem de aplicativo
-* 2.1.9 Descrever a Rede Virtual do Azure
+* 2.1.9 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/redeVirtualAzure.md"> Descrever a Rede Virtual do Azure
 
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
