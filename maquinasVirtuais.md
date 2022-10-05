@@ -1,5 +1,5 @@
 # 2.1.4 Descrever Máquinas Virtuais do Azure
-###### fonte: https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/2-virtual-machines
+###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/2-virtual-machines
 
 As VMs fornecem IaaS (infraestrutura como serviço) na forma de um servidor virtualizado e como em um computador físico, você pode personalizar todos os programas de software em execução. As VMs são uma opção ideal quando você precisa de:
 
