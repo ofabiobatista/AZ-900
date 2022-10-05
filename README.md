@@ -33,12 +33,13 @@ Conteúdo de revisão
 * 2.1.2 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaFisicaAzure.md"> Descrever a infraestrutura física do Azure 🏙 </a>
 * 2.1.3 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/infraestruturaGerenciamentoAzure.md"> Descrever a infraestrutura de gerenciamento do Azure 🌐 </a>
 
-#### 2.1 Descrever os serviços de computação e rede do Azure
-* 2.1.4 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/maquinasVirtuais.md"> Descrever Máquinas Virtuais do Azure
-* 2.1.5 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/areaDeTrabalhoVirtual.md"> Descrever a Área de Trabalho Virtual do Azure
-* 2.1.6 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/containerAzure.md"> Descrever contêineres do Azure
-* 2.1.7 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/azureFunctions.md"> Descrever Azure Functions
-* 2.1.8 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/hospedagemAplicativo.md"> Descrever Azure Functions Descrever as opções de hospedagem de aplicativo
-* 2.1.9 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/redeVirtualAzure.md"> Descrever a Rede Virtual do Azure
+#### 2.2 Descrever os serviços de computação e rede do Azure
+* 2.2.1 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/maquinasVirtuais.md"> Descrever Máquinas Virtuais do Azure
+* 2.2.2 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/areaDeTrabalhoVirtual.md"> Descrever a Área de Trabalho Virtual do Azure
+* 2.2.3 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/containerAzure.md"> Descrever contêineres do Azure
+* 2.2.4 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/azureFunctions.md"> Descrever Azure Functions
+* 2.2.5 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/hospedagemAplicativo.md"> Descrever Azure Functions Descrever as opções de hospedagem de aplicativo
+* 2.2.6 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/redeVirtualAzure.md"> Descrever a Rede Virtual do Azure
+* 2.2.7 Descrever Redes Virtuais Privadas do Azure
 
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
