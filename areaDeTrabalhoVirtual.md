@@ -1,4 +1,4 @@
-# 2.1.5 Descrever a Área de Trabalho Virtual do Azure
+# 2.2.2 Descrever a Área de Trabalho Virtual do Azure
 ###### Fonte: https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/4-virtual-desktop
 
 A Área de Trabalho Virtual do Azure é um serviço de virtualização de área de trabalho e aplicativos que é executado na nuvem. Ele permite que você use uma versão do Windows hospedada na nuvem em qualquer localização.
