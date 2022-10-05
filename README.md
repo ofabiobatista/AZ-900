@@ -36,6 +36,7 @@ Conteúdo de revisão
 #### 2.1 Descrever os serviços de computação e rede do Azure
 * 2.1.4 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/maquinasVirtuais.md"> Descrever Máquinas Virtuais do Azure
 * 2.1.5 <a href="https://github.com/ofabiobatista/AZ-900/blob/main/areaDeTrabalhoVirtual.md"> Descrever a Área de Trabalho Virtual do Azure
+* 2.1.6 Descrever contêineres do Azure
 
 
 ### 3. Descrever o gerenciamento e a governança do Azure (30 a 35%)
